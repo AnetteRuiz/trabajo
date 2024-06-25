@@ -1,0 +1,11 @@
+C:\Users\aruiz\Desktop\Proyectos Anette\Escuela\Escuela\bin\Debug\Escuela.exe.config
+C:\Users\aruiz\Desktop\Proyectos Anette\Escuela\Escuela\bin\Debug\Escuela.exe
+C:\Users\aruiz\Desktop\Proyectos Anette\Escuela\Escuela\bin\Debug\Escuela.pdb
+C:\Users\aruiz\Desktop\Proyectos Anette\Escuela\Escuela\obj\Debug\Escuela.csproj.AssemblyReference.cache
+C:\Users\aruiz\Desktop\Proyectos Anette\Escuela\Escuela\obj\Debug\Escuela.Properties.Resources.resources
+C:\Users\aruiz\Desktop\Proyectos Anette\Escuela\Escuela\obj\Debug\Escuela.csproj.GenerateResource.cache
+C:\Users\aruiz\Desktop\Proyectos Anette\Escuela\Escuela\obj\Debug\Escuela.csproj.CoreCompileInputs.cache
+C:\Users\aruiz\Desktop\Proyectos Anette\Escuela\Escuela\obj\Debug\Escuela.exe
+C:\Users\aruiz\Desktop\Proyectos Anette\Escuela\Escuela\obj\Debug\Escuela.pdb
+C:\Users\aruiz\Desktop\Proyectos Anette\Escuela\Escuela\obj\Debug\Escuela.Form_Acceso.resources
+C:\Users\aruiz\Desktop\Proyectos Anette\Escuela\Escuela\obj\Debug\Escuela.Form_Admin.resources
