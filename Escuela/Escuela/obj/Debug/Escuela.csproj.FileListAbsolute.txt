@@ -9,3 +9,4 @@ C:\Users\aruiz\Desktop\Proyectos Anette\Escuela\Escuela\obj\Debug\Escuela.exe
 C:\Users\aruiz\Desktop\Proyectos Anette\Escuela\Escuela\obj\Debug\Escuela.pdb
 C:\Users\aruiz\Desktop\Proyectos Anette\Escuela\Escuela\obj\Debug\Escuela.Form_Acceso.resources
 C:\Users\aruiz\Desktop\Proyectos Anette\Escuela\Escuela\obj\Debug\Escuela.Form_Admin.resources
+C:\Users\aruiz\Desktop\Proyectos Anette\Escuela\Escuela\obj\Debug\Escuela.Consultar.resources

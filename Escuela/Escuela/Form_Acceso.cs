@@ -5,6 +5,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -24,24 +25,32 @@ namespace Escuela
             conexion.Open();
 
             SqlCommand cmslc = new SqlCommand("Select Nom_user,Contraseña from Users where Nom_user= '" + txtbx_name.Text + "' and Contraseña= '" + txtbx_passw.Text + "'",conexion);
-            SqlDataReader rdr = cmslc.ExecuteReader();
-            if (rdr.Read())
+            using (SqlDataReader rdr = cmslc.ExecuteReader())
             {
-                MessageBox.Show("Login exitoso", "System");
-                Form_Admin FA = new Form_Admin();
-                FA.ShowDialog();
-                conexion.Close();
+                if (rdr.Read())
+                {
+                    rdr.Close();
+                    Visible = false;
+                    Form_Admin FA = new Form_Admin();
+                    FA.Show();
+                  
+                  
+                   
+                }
+                else
+                {
+                    MessageBox.Show("Contraseña incorrecta", "System");
+                }
+                
             }
-            else
-            {
-                MessageBox.Show("Login incorrecto", "System");
-            }
-           
+          
+
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             login();
+            
         }
 
        
