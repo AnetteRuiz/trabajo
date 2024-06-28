@@ -11,7 +11,7 @@ namespace Escuela
     {
         public static SqlConnection conexion()
         {
-            SqlConnection conec = new SqlConnection("server=SWL040; database=Escuela; integrated security=true");
+            SqlConnection conec = new SqlConnection("server=LAPTOP-OCCNR6MH; database=Escuela; integrated security=true");
             conec.Open();
 
             return conec;

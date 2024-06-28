@@ -13,9 +13,9 @@ using System.Windows.Forms;
 
 namespace Escuela
 {
-    public partial class Form_Admin : Form
+    public partial class boton_back_prin : Form
     {
-        public Form_Admin()
+        public boton_back_prin()
         {
             InitializeComponent();
         }
@@ -89,10 +89,10 @@ namespace Escuela
                 
         }
 
-        private void Boton_consultar_Click(object sender, EventArgs e)
+        private void boton_backPrin_Click(object sender, EventArgs e)
         {
-            Consultar FC = new Consultar();
-            FC.Show();
+            Form_Principal FP = new Form_Principal();
+            FP.Show();
         }
     }
 }

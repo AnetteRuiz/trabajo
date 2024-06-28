@@ -70,11 +70,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BD.cs" />
-    <Compile Include="Consultar.cs">
+    <Compile Include="Form_Consultar.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Consultar.Designer.cs">
-      <DependentUpon>Consultar.cs</DependentUpon>
+    <Compile Include="Form_Consultar.Designer.cs">
+      <DependentUpon>Form_Consultar.cs</DependentUpon>
     </Compile>
     <Compile Include="Form_Acceso.cs">
       <SubType>Form</SubType>
@@ -88,16 +88,34 @@
     <Compile Include="Form_Admin.Designer.cs">
       <DependentUpon>Form_Admin.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Principal.Designer.cs">
+      <DependentUpon>Form_Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profesores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profesores.Designer.cs">
+      <DependentUpon>Profesores.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Consultar.resx">
-      <DependentUpon>Consultar.cs</DependentUpon>
+    <EmbeddedResource Include="Form_Consultar.resx">
+      <DependentUpon>Form_Consultar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form_Acceso.resx">
       <DependentUpon>Form_Acceso.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form_Admin.resx">
       <DependentUpon>Form_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Principal.resx">
+      <DependentUpon>Form_Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profesores.resx">
+      <DependentUpon>Profesores.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -107,6 +125,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -133,6 +152,15 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\uag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\uag %281%29 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\regresar %281%29.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

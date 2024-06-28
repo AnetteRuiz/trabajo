@@ -10,3 +10,16 @@ C:\Users\aruiz\Desktop\Proyectos Anette\Escuela\Escuela\obj\Debug\Escuela.pdb
 C:\Users\aruiz\Desktop\Proyectos Anette\Escuela\Escuela\obj\Debug\Escuela.Form_Acceso.resources
 C:\Users\aruiz\Desktop\Proyectos Anette\Escuela\Escuela\obj\Debug\Escuela.Form_Admin.resources
 C:\Users\aruiz\Desktop\Proyectos Anette\Escuela\Escuela\obj\Debug\Escuela.Consultar.resources
+C:\Users\anett\Documents\C#\Sql\trabajo-main\Escuela\Escuela\bin\Debug\Escuela.exe.config
+C:\Users\anett\Documents\C#\Sql\trabajo-main\Escuela\Escuela\bin\Debug\Escuela.exe
+C:\Users\anett\Documents\C#\Sql\trabajo-main\Escuela\Escuela\bin\Debug\Escuela.pdb
+C:\Users\anett\Documents\C#\Sql\trabajo-main\Escuela\Escuela\obj\Debug\Escuela.csproj.AssemblyReference.cache
+C:\Users\anett\Documents\C#\Sql\trabajo-main\Escuela\Escuela\obj\Debug\Escuela.csproj.SuggestedBindingRedirects.cache
+C:\Users\anett\Documents\C#\Sql\trabajo-main\Escuela\Escuela\obj\Debug\Escuela.Consultar.resources
+C:\Users\anett\Documents\C#\Sql\trabajo-main\Escuela\Escuela\obj\Debug\Escuela.Form_Acceso.resources
+C:\Users\anett\Documents\C#\Sql\trabajo-main\Escuela\Escuela\obj\Debug\Escuela.Form_Admin.resources
+C:\Users\anett\Documents\C#\Sql\trabajo-main\Escuela\Escuela\obj\Debug\Escuela.Properties.Resources.resources
+C:\Users\anett\Documents\C#\Sql\trabajo-main\Escuela\Escuela\obj\Debug\Escuela.csproj.GenerateResource.cache
+C:\Users\anett\Documents\C#\Sql\trabajo-main\Escuela\Escuela\obj\Debug\Escuela.csproj.CoreCompileInputs.cache
+C:\Users\anett\Documents\C#\Sql\trabajo-main\Escuela\Escuela\obj\Debug\Escuela.exe
+C:\Users\anett\Documents\C#\Sql\trabajo-main\Escuela\Escuela\obj\Debug\Escuela.pdb
